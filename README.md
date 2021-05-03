@@ -1,2 +1,2 @@
-# JavaProgram1
+# JavaPrintProgram
 Using println, printf and print methods
